@@ -7,12 +7,13 @@ import Planning from "./pages/Planning"
 import EnvironmentT from "./pages/EnvironmentT"
 import EnvironmentalMapping from "./components/EnvironmentalMapping"
 import NPM from "./components/NPM"
-import CBC from "./components/cbc"
+
 import GreenhouseGasInventory from "./components/GreenhouseGasInventory"
 import WebGIS from "./components/WebGIS.JSX"
 import SpatialPlanning from "./components/SpatialPlanning"
 import EIA_EA from "./components/EIA_EA"
 import GISConsultancy from "./components/GISConsultancy"
+import CBC from "./components/CBC"
 
 
 
